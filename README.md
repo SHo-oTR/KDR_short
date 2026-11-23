@@ -11,15 +11,6 @@
 
 **KDR short** is an industrial-grade, header-only C++17 sorting engine engineered for extreme throughput on modern superscalar architectures. Combining **in-place Most Significant Digit (MSD) Radix partitioning**, **in-register SIMD Bitonic sorting networks**, and **cache-resident Least Significant Digit (LSD) kernels**, KDR short establishes new world-record sorting speeds for integer, floating-point, and string data across AVX-512, AVX2, and generic CPU platforms.
 
-> [!IMPORTANT]
-> **Dual Licensing Terms**
-> - **Personal, Academic & Non-Commercial Use:** **100% FREE** under our non-commercial license for students, hobbyists, academic researchers, and non-profit open-source development.
-> - **Commercial, Corporate & Enterprise Use:** A **paid Commercial License** is required for companies, enterprises, SaaS/cloud platforms, proprietary software, and revenue-generating applications.
->
-> To acquire a commercial license or request technical support, please contact:
-> **Author:** Kadir Karahan  
-> **Email:** [kadir.karahan2009@gmail.com](mailto:kadir.karahan2009@gmail.com)
-
 ---
 
 ## Highlights & Architectural Triumphs
