@@ -5,7 +5,7 @@
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
 [![Header-Only](https://img.shields.io/badge/library-header--only-brightgreen.svg)](include/kdr/kdr_sort.hpp)
 [![SIMD](https://img.shields.io/badge/SIMD-AVX--512%20%7C%20AVX2%20%7C%20Scalar-orange.svg)](include/kdr/kdr_sort.hpp)
-[![License: Dual](https://img.shields.io/badge/license-Dual%20(Personal%20Free%20%2F%20Commercial%20Paid)-red.svg)](LICENSE)
+[![License:](https://img.shields.io/badge/license-Dual%20(PolyForm%20Noncommercial%20License%201.0.0)-red.svg)](LICENSE)
 [![Zero-Allocation](https://img.shields.io/badge/heap%20memory-0%20bytes%20(O(1))-success.svg)](include/kdr/kdr_sort.hpp)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](include/kdr/kdr_sort.hpp)
 
