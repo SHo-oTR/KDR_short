@@ -214,7 +214,7 @@ KDR short avoids all dynamic memory allocations (`new`, `malloc`, `std::vector`)
 KDR short is a single-header library. Simply copy `include/kdr/kdr_sort.hpp` into your project's include directory:
 
 ```bash
-git clone https://github.com/<your-username>/KDR_short.git
+git clone https://github.com/SHo-oTR/KDR_short.git
 # Copy kdr_sort.hpp into your include path
 cp KDR_short/kdr-sort/include/kdr/kdr_sort.hpp /your/project/include/kdr/
 ```
